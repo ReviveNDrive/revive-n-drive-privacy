@@ -117,6 +117,6 @@ For privacy questions, account-data requests, or purchase-support questions, con
 
 **Revive ’N Drive**  
 Email: **tanneralcala@gmail.com**  
-GitHub: [tanneralcala-sudo](https://github.com/tanneralcala-sudo)
+GitHub: [ReviveNDrive](https://github.com/ReviveNDrive)
 
 This Privacy Policy describes privacy practices and is not legal advice. Applicable consumer and privacy rights may vary by jurisdiction.
